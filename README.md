@@ -6,6 +6,9 @@ Installation:
 
   Alternatively, if you have a linux/unix environment you can use your package manager to 
   install maven, for me it is: apt-get install maven
+  
+  
+  
 
 Running the Project:
 
@@ -16,6 +19,9 @@ Running the Project:
   If you have a linux/unix environment, you can run the project using: mvn spring-boot:run
 
   If the project successfully ran, it should be listening on port 8084
+  
+  
+  
 
 POST Requests:
 
@@ -50,6 +56,9 @@ POST Requests:
   version1 is equal to version2
 
   Version1 or Version2 or both are badly formatted!
+  
+  
+  
 
 Examples:
 
