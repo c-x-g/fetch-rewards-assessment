@@ -7,7 +7,6 @@ If you do not have a linux/unix environment please install Postman at: https://w
 Alternatively, if you have a linux/unix environment you can use your package manager to 
 install maven, for me it is: apt-get install maven
 
-
 Running the Project:
 
 Build the project in your IDE, and after that completes, 
@@ -81,6 +80,7 @@ response: 4.7.5 is after 4.7
 }
 
 response: Version1 or Version2 or both are badly formatted!
+
 
 
 
